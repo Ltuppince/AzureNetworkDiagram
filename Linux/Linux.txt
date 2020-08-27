@@ -1,0 +1,18 @@
+Command used to connect to JumpBox w/Docker from local machine
+
+[This command allows local machine to connect to the VM JumpBox]
+
+$ ssh sysadmin@13.68.201.246
+
+[This command list all containers in Docker] 
+
+$ sudo docker container list -a
+
+[Command to start container]
+
+$ sudo docker start infallible_wozniak
+
+[Command used to attach Docker]
+
+$sudo docker attach infallible_wozniak
+ 
