@@ -189,7 +189,7 @@ Use the following command to edit or update your playbook.
 
 nano /etc/ansible/roles/elk_playbook.yml
  
-Use the following command to download the playbook.
+
 
 
 
