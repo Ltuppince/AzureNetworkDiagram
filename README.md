@@ -145,7 +145,7 @@ Update the Ansible `hosts` file to make Ansible run the playbook on a specific m
 
 Create the `elk_playbook.yml` file.  Copy the playbook to the `/etc/ansible/roles` directory.  This is the directory that will contain the ansible playbooks.
 
-Run the playbook, and navigate to `http://52.160.91.182:5601/app/kibana` to check that the installation worked as expected.
+Run the playbook, and navigate to `kibana` to check that the installation worked as expected.
 
 Steps for Filebeat Installation:
 Install Filebeat.
