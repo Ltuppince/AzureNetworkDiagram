@@ -191,6 +191,6 @@ nano /etc/ansible/roles/elk_playbook.yml
  
 Use the following command to download the playbook.
 
-TODO: use the curl command.
+
 
 
